@@ -1,0 +1,1 @@
+Each tag shoudl be uppercase
