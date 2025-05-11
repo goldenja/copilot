@@ -1,0 +1,1 @@
+add smile emote to each response

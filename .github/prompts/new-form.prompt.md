@@ -1,4 +1,8 @@
-# New Form Instrucions
+---
+mode: 'agent'
+tools: ['codebase']
+description: 'Generate a new web form'
+---
 
 Your goal is to generate a new HTML form component.
 
